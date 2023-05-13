@@ -125,6 +125,7 @@ section:nth-child(even){
 }
 .home .content{
     flex: 1 1 45rem;
+    background: #6ec6ff
 }
 .home .content h3 {
     font-size: 4.5rem;
