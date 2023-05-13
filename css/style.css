@@ -116,6 +116,7 @@ section:nth-child(even){
     flex-wrap: wrap;
     gap: 1.5rem;
     padding-top: 10rem;
+    background: #80c3ffc
 }
 .home .image{
     flex: 1 1 45rem;
@@ -125,7 +126,6 @@ section:nth-child(even){
 }
 .home .content{
     flex: 1 1 45rem;
-    background: #6ec6ff
 }
 .home .content h3 {
     font-size: 4.5rem;
